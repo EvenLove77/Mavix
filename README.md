@@ -15,6 +15,3 @@ A modern open-source Android media player.
 - Jetpack Compose
 - Material 3
 - Media3
-
-
-66666
